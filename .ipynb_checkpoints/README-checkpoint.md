@@ -15,7 +15,7 @@
        - Does the release date of a movie impact its IMDb rating?
         
 ### Responsibilities:
-   -Data cleaning: Ahmed
-   -Readme writing: Kate
-   -Presentation writing: Kate
+   - Data cleaning: Ahmed
+   - Readme writing: Kate
+   - Presentation writing: Kate
 
