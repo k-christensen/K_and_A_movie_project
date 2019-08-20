@@ -1,3 +1,5 @@
+import pandas as pd
+
 def unique(lst):
     unique_list = []
     for item in lst:
