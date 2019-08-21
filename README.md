@@ -11,9 +11,19 @@
         
 ### Responsibilities:
    - Data cleaning: Ahmed
-   - Data visuals: Kate
+   - Final analysis and data visuals: Kate
    - Technical Notebook: Kate
    - Non-Technical Notebook: Ahmed
    - Readme writing: Kate
    - Presentation writing: Kate
+   
+### Contents: 
+   - Technical notebook: tech_notebook.ipynb
+   - Non-technical notebook: non_tech_notebook.ipynb
+   - Presentation pdf: Movie_presentation.pdf
+   - Cleaned dataframes:
+       - top_three_genres.csv was used for the month and time of the month graphs
+       - top_five_studios.csv was used for the studio analysis
+       - Since both were used in the final analysis, I've included both
+       - all data used is in the zippedData folder
 
