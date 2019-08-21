@@ -4,18 +4,16 @@
 ## By Kate Christensen and Ahmed Safdar
 
 ### Goals:
-   - Determine if release date impacts the success of a movie
-   - If so:
-       - What is the best month overall to release a movie?
-       - What is the worst month overall to release a movie?
-       - What are the best months to release movies in specific genres?
-       - What are the worst months to release movies in specific genres?
-       - Are there any differences between the optimal months to release movies in certain genres versus overall?
-       - How much does the optimal month vary by year?
-       - Does the release date of a movie impact its IMDb rating?
+   - Determine how to optimize the return on a studio's investment in a movie. This was accomplished by:
+       - Determining the most profitable movie genres
+       - Determining the most profitable movie studios within these genres
+       - Determining the optimal release month and time of month
         
 ### Responsibilities:
    - Data cleaning: Ahmed
+   - Data visuals
+   - Technical Notebook: Kate
+   - Non-Technical Notebook: Ahmed
    - Readme writing: Kate
    - Presentation writing: Kate
 

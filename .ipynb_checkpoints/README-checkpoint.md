@@ -16,6 +16,8 @@
         
 ### Responsibilities:
    - Data cleaning: Ahmed
+   - Technical Notebook: Kate
+   - Non-Technical Notebook: Ahmed
    - Readme writing: Kate
    - Presentation writing: Kate
 
